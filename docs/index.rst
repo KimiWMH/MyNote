@@ -9,9 +9,6 @@ Welcome to MyNote's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-	
-   Preface
-
 
 Indices and tables
 ==================
